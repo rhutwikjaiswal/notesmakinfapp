@@ -1,0 +1,35 @@
+.note {
+    padding: 25px;
+    height: 280px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 235, 213);
+    border-radius: 20px;
+  }
+
+  .note_text {
+    flex: 1;
+    resize: none;
+    background-color: transparent;
+    font-size: 1rem;
+    line-height: 1.875rem;
+    outline: none;
+    border: none;
+  } 
+
+  .noteFooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .noteFooter i{
+    font-size: 40px;
+  }
+
+  .noteFooter button{
+    background-color: transparent;
+    border: none;
+    color: rgb(67, 92, 100);
+  }

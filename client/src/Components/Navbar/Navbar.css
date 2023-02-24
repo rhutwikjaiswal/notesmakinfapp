@@ -1,0 +1,27 @@
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav button {
+  float: left;
+  color: lightblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  background-color: transparent;
+  border: none;
+  margin: 5px;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+}
+
+
+ 
